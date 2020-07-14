@@ -23,8 +23,8 @@ https://usgs.entwine.io/
 
 **Thumbnails**
 
-![Citifield 1](./thumb/thumb-01.png)
+<img src="https://raw.githubusercontent.com/mikydna/gl-data/master/lidar-usgs/citifield/thumb/thumb-1.png" width=420 />
 
-![Citifield 2](./thumb/thumb-02.png)
+<img style="float: left;" src="https://raw.githubusercontent.com/mikydna/gl-data/master/lidar-usgs/citifield/thumb/thumb-2.png" width=420 />
 
-![Citifield 3](./thumb/thumb-02.png)
+<img style="float: left;" src="https://raw.githubusercontent.com/mikydna/gl-data/master/lidar-usgs/citifield/thumb/thumb-3.png" width=420 />
