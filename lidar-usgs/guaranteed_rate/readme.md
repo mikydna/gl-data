@@ -27,5 +27,6 @@ https://usgs.entwine.io/
 
 **Thumbnails**
 
-<img src="https://raw.githubusercontent.com/mikydna/gl-data/master/lidar-usgs/guaranteed_rate/thumb/thumb-01.png" width=420 />
-
+<img src="https://raw.githubusercontent.com/mikydna/gl-data/master/lidar-usgs/guaranteed_rate/thumb/thumb-1.png" width=420 />
+<img src="https://raw.githubusercontent.com/mikydna/gl-data/master/lidar-usgs/guaranteed_rate/thumb/thumb-2.png" width=420 />
+<img src="https://raw.githubusercontent.com/mikydna/gl-data/master/lidar-usgs/guaranteed_rate/thumb/thumb-3.png" width=420 />
